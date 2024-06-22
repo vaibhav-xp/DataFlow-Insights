@@ -2,7 +2,7 @@
 
 DataFlow Insights is a MERN Stack Application.
 
-##### Checkout [live](https://dataflow-insights-frontend.onrender.com/).
+##### Checkout [live](https://data-flow-insights.vercel.app/).
 
 ### My Learning:
 
