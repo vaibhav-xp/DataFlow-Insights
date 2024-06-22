@@ -1,7 +1,5 @@
 # DataFlow-Inshights
 
-# DataFlow-Inshights
-
 DataFlow Insights is a MERN Stack Application.
 
 ##### Checkout [live](https://dataflow-insights-frontend.onrender.com/).
@@ -14,4 +12,5 @@ DataFlow Insights is a MERN Stack Application.
 - Frontend
   - Chartjs
 
-![image](https://github.com/vaibhav-xt/DataFlow-Inshights/assets/90946899/d0a1ef19-dd60-4243-a936-fd1a97e9fb30)
+![image](https://github.com/vaibhav-xp/DataFlow-Insights/assets/90946899/962617a0-1571-42a9-af9e-ac7de44c5da4)
+
